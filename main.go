@@ -2,12 +2,12 @@ package main
 
 import (
 	"fmt"
-	"github.com/WahidinAji/helper-say-hello"
+	"github.com/WahidinAji/helper-say-hello/v3"
 )
 
 func main() {
 	fmt.Println("hello")
-	say_hello := helper.SayHello()
+	say_hello := helper.SayHello("Aji is here, ","Twenty Two")
 	fmt.Println(say_hello)
 }
 

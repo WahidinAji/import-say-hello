@@ -1,2 +1,6 @@
 github.com/WahidinAji/helper-say-hello v1.0.0 h1:o2Uc+L7CxZ9iDVbYNOj8LvyLjCaeCXfGGxF+KSkuP7c=
 github.com/WahidinAji/helper-say-hello v1.0.0/go.mod h1:SAJHzAL8ay9mfXzTDY+AIBCuXR5BwOFxb+Vj0ba5hJE=
+github.com/WahidinAji/helper-say-hello/v2 v2.0.0 h1:y8ma5IFZJ6bp0wpD2uuF3QhE9FuHHUXDBu2hYxwCsMI=
+github.com/WahidinAji/helper-say-hello/v2 v2.0.0/go.mod h1:FUObKcA/12iiUWjzgTzKwrd6VZvs1GLQXM1n4O5P/U8=
+github.com/WahidinAji/helper-say-hello/v3 v3.0.0 h1:9NivbWlU/Js+Qq4ji3Z41aCV204lWR8TKLXc+21HdY8=
+github.com/WahidinAji/helper-say-hello/v3 v3.0.0/go.mod h1:81jFEEGI86GWOCs+hYxn1K93gS15udek24ah5vkZeSM=
